@@ -10,4 +10,5 @@
 1. model for gait analysis
 2. model for stride length analysis
 3. trained model for stride length analysis
+
 剩下的部分因為太過零散還沒整個連接起來打通，所以在下一次書審再繳交
