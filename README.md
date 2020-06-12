@@ -7,5 +7,5 @@
 5. ARC IoTDK的MLI範例測試
 
 已上傳的部分:
-model for gait analysis
+model for gait analysis，
 剩下的部分因為太過零散還沒整個連接起來打通，所以在下一次書審再繳交
