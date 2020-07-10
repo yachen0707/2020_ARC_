@@ -5,6 +5,7 @@
 3. ARC IoTDK的藍芽測試
 4. ARC IoTDK的sensor資料蒐集
 5. ARC IoTDK的MLI範例測試
+
 目前還正在進行中：
 1. 用tensorflow lite 測試，因為之前的MLI問題很多(src裡有附上用MLI轉換出來的code)，所以目前改用tflite測試
 2. 將sensor蒐集到的資料跟tflie結合
