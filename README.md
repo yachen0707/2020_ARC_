@@ -17,4 +17,4 @@
 3. trained model for stride length analysis ( Multitask_early_swing_20Hzrandom5_super_parttotest_fullpath_com0.125_allpeople_+weiMAX.pkl )
 
 
-剩下的部分因為太過零散還沒整個連接起來打通，所以在下一次書審再繳交
+剩下的部分因為太過零散還沒整個連接起來打通，所以在比賽當天完整呈現
